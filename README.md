@@ -23,9 +23,24 @@ This resume showcases my educational background and basic profile details using 
 
 ---
 
+## 🖼️ Project Preview
+
+### Project Live Screenshot
+![Project Screenshot](./Screenshot%20(11039).png)
+![Project Screenshot](./Screenshot%20(11040).png)
+![Project Screenshot](./Screenshot%20(11041).png)
+![Project Screenshot](./Screenshot%20(11042).png)
+
+## 🖼️ Project Source Code
+
+### Project Code Screenshot
+![Code Screenshot](./Screenshot%20(11043).png)
+![Code Screenshot](./Screenshot%20(11044).png)
+
 ## 📂 Project Structure
 
 WebDev-Cohort-2026-Html-Resume/
 │
 ├── index.html # Main resume file
 ├── README.md # Project documentation
+├── assets/Screenshots # Images used in README
